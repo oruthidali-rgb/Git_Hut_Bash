@@ -98,4 +98,10 @@ Para agregar de nuevo se puede utilizar add -A:
 --exixte otra forma de quitar un archivo del stage y es similar:
 ![alt text](image-20.png)
 
---
+--para agregar de nuevo se realiza asi:
+
+![alt text](image-21.png)
+
+Dato 4: Para conocerlas definiciones de los comandos se utiliza git help commit:
+
+*ALIAS*
