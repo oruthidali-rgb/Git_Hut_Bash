@@ -105,3 +105,13 @@ Para agregar de nuevo se puede utilizar add -A:
 Dato 4: Para conocerlas definiciones de los comandos se utiliza git help commit:
 
 *ALIAS*
+Se crean alias para los comandos, como por ejemplo:
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+*MV/RM/reset*
+*Como modifico el texto del commit al cometer un error:
+
+![alt text](image-24.png)
