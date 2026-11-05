@@ -115,3 +115,20 @@ Se crean alias para los comandos, como por ejemplo:
 *Como modifico el texto del commit al cometer un error:
 
 ![alt text](image-24.png)
+
+-para modificar el nombre del archivo debes colocar el comando mv,nombre del archivo y nuevo nombre:
+
+![alt text](image-25.png)
+
+-para remover un archivo se utliza rm,nombre del archivo:
+
+![alt text](image-26.png)
+
+-para volver un paso atras se utiliza reset --soft y se pega el id:
+
+![alt text](image-27.png)
+
+-para recuperar los archivos:
+
+![alt text](image-28.png)
+
