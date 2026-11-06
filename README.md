@@ -132,3 +132,15 @@ Se crean alias para los comandos, como por ejemplo:
 
 ![alt text](image-28.png)
 
+-para el historico del historial:
+
+![alt text](image-29.png)
+
+*git ignore*
+Para quitar un archivo del que no se quiere llevar el control se crea una carpeta con nombre .gitignore..Se abre esta carpeta y se escribe el nombre del archivo a quitar
+
+*Ramas y uniones*
+#Fast-Forward
+Para crear una rama se utiliza git branch y el nombre de la rama
+Con merge se unen las ramas
+
