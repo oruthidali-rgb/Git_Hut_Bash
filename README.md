@@ -11,7 +11,7 @@ Igual tome otro curso un poco mas largo donde aprendi a buscar los comandos y na
 
 Paso 1: Verificar que la terminal funciona y su version:
 
-![alt text](image.png)
+![alt text](image-32.png)
 
 Paso 2:Realizar la credencial con el nombre y el email:
 
@@ -43,12 +43,22 @@ Paso 8:Guardar los cambios (commit)
      Primera instantánea del proyecto con un mensaje descriptivo con el comando commit -m:
      El comando git commit toma todos los archivos que estaban en esa zona de espera y les toma una instantánea o foto permanente en la historia de tu proyecto.
 
+![alt text](image-7.png)
+
 Paso 9:Vincular tu repositorio local con GitHub
         Este comando conecta la carpeta con el repositorio exacto que se creo en la web(remote add origin):
 
-![alt text](image.png)
+![alt text](image-31.png)
 
-![alt text](image-7.png)
+Paso 10:Subir los archivos a la nube (Hacer el Push):
+        Finalmente, envie los archivos locales hacia GitHub con el comando push:
+
+![alt text](image-33.png)
+
+*¿Cómo verificar que funcionó?*
+Una vez que se ejecuto el último comando y termine de cargar, me dirigi al navegador web, actualice la página de mi repositorio y vi que mi archivo README.md y mis cambios ya aparecen publicados correctamente en la plataforma.
+
+![alt text](image.png)
 
 Dato :Cuando realizas un cambio en un archivo utilizas status para conocer que un archivo fue modificado:
 
