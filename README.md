@@ -43,6 +43,11 @@ Paso 8:Guardar los cambios (commit)
      Primera instantánea del proyecto con un mensaje descriptivo con el comando commit -m:
      El comando git commit toma todos los archivos que estaban en esa zona de espera y les toma una instantánea o foto permanente en la historia de tu proyecto.
 
+Paso 9:Vincular tu repositorio local con GitHub
+        Este comando conecta la carpeta con el repositorio exacto que se creo en la web(remote add origin):
+
+![alt text](image.png)
+
 ![alt text](image-7.png)
 
 Dato :Cuando realizas un cambio en un archivo utilizas status para conocer que un archivo fue modificado:
@@ -144,3 +149,8 @@ Para quitar un archivo del que no se quiere llevar el control se crea una carpet
 Para crear una rama se utiliza git branch y el nombre de la rama
 Con merge se unen las ramas
 
+*¿Qué dificultades encontraste y cómo las resolviste?*
+*Dificultad 1: Me frustre porque no le entendia al curso, asi que busque otro curso y al final le entendi a los dos.
+*Dificultad 2: Me emocione navegando por la carpeta desde la terminal y luego ya no queria abrir, por lo que borre la carpeta y cree otra.
+*Dificultad 3: No entendia para que servia commit y como se utilizaba, entonces le pregunte a Gemini y me explico de forma detallada para que sirve y el porque de  la frase posterior al comando ("") 
+*Dificultad 4: Para verificar qye funciono actualice el navegador pero no se veian mis anotaciones y unicamente se veia la primera pregunta y las imagenes como archivos, asi que volvi a preguntar a Gemini y me dijo que debia dejar espacios entre cada imagen y su anotacion
